@@ -1,0 +1,8 @@
+KINPLUS INVENTORY AND STOCK MANAGEMENT SYSTEM
+Technology: HTML, CSS and JavaScript
+Storage: Browser localStorage
+Project type: Front-end academic prototype
+
+The application opens with demonstration inventory records. Replace these with real project records before taking screenshots for your report.
+
+Important: This version does not include a remote server, central database, secure authentication or multi-user permissions. Describe it accurately as a browser-based prototype unless a backend is subsequently implemented and tested.
